@@ -54,20 +54,3 @@ CREATE TABLE medical_shift(
     FOREIGN KEY (patient_id) REFERENCES patients(id),
     FOREIGN KEY (medic_id) REFERENCES medics(id)
 );
-
-SELECT * FROM patients;
-SELECT * FROM medical_history;
-SELECT * FROM medical_speciality;
-
-SELECT *
-FROM medical_history
-INNER JOIN patients ON medical_history.patient_id = patients.id;
-
-SELECT * FROM medics;
-
-SELECT medical_shift.shift_date, patients.first_name AS patient, medics.first_name AS medic FROM medical_shift
-INNER JOIN patients ON medical_shift.patient_id = patients.id
-INNER JOIN medics ON medical_shift.medic_id = medics.id;
-
-SELECT * FROM medics
-INNER JOIN medical_speciality ON medics.speciality_id = medical_speciality.id;
