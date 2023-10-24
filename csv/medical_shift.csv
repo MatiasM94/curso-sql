@@ -1,0 +1,16 @@
+shift_date,place,reason,patient_id,medic_id
+2023-11-01 09:30:00,Consultorio 3 - 2° piso,Control de presión arterial,15,4
+2023-11-02 10:00:00,Sala médica 1 - 1° piso,Consulta por alergias,9,17
+2023-11-03 11:15:00,Consultorio 5 - 3° piso,Seguimiento de tratamiento,21,13
+2023-11-04 12:30:00,Sala médica 2 - 2° piso,Dolor abdominal,33,9
+2023-11-05 14:00:00,Consultorio 1 - 1° piso,Control de vista,37,6
+2023-11-06 15:45:00,Sala médica 3 - 3° piso,Dolor de cabeza recurrente,27,12
+2023-11-07 16:20:00,Consultorio 2 - 2° piso,Problemas respiratorios,11,19
+2023-11-08 09:00:00,Sala médica 1 - 1° piso,Lesión en la pierna,45,14
+2023-11-09 11:45:00,Consultorio 4 - 3° piso,Consulta de rutina,35,8
+2023-11-10 13:10:00,Sala médica 2 - 2° piso,Dolor en el pecho,3,10
+2023-11-11 14:50:00,Consultorio 3 - 1° piso,Problemas digestivos,19,3
+2023-11-12 15:25:00,Sala médica 3 - 2° piso,Control de diabetes,49,16
+2023-11-13 09:30:00,Consultorio 5 - 3° piso,Seguimiento de tratamiento,31,18
+2023-11-14 11:15:00,Sala médica 2 - 2° piso,Dolor de espalda,47,2
+2023-11-15 12:45:00,Consultorio 1 - 1° piso,Problemas de sueño,23,20

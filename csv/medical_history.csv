@@ -1,0 +1,31 @@
+medical_consultations,medical_treatment,emergencies,patient_id
+Dolor de cabeza persistente,Tomando medicación para la migraña,Fiebre alta,3
+Problemas gastrointestinales,Dieta especial y medicamentos,,7
+Lesión en la pierna izquierda,Fisioterapia y medicación para el dolor,,11
+Dolor en el pecho,Bajo observación y medicamentos,Ataque de ansiedad,15
+,,Fractura de brazo izquierdo,19
+Problemas respiratorios,Inhalador y medicamentos,,23
+,,Intoxicación alimentaria,27
+Dolor de espalda crónico,Fisioterapia y ejercicios,,31
+Problemas dermatológicos,Crema y medicación,,35
+,,Alergia severa,39
+Dolor abdominal,Dieta y medicamentos,,43
+Problemas de visión,Lentes recetados,,47
+,,Herida profunda en la mano derecha,51
+Dolor en las articulaciones,Antiinflamatorios,,2
+Problemas de ansiedad,Terapia y medicación,,6
+Dolor en la garganta,Antibióticos y reposo,,5
+Problemas de sueño,Recomendaciones para mejorar el sueño,,9
+Lesión en la rodilla derecha,Fisioterapia y ejercicios de fortalecimiento,,13
+Dolor en el abdomen inferior,Evaluación ginecológica,,17
+,,Quemadura en la mano izquierda,21
+Problemas de digestión,Cambio en la dieta y medicamentos,,25
+,,Desmayo repentino,29
+Dolor en la cadera,Ejercicios de rehabilitación,,33
+Problemas de alergia,Antihistamínicos y evitar alérgenos,,37
+,,Picadura de insecto con reacción alérgica,41
+Dolor en el costado derecho,Reposo y analgésicos,,45
+Problemas de audición,Pruebas auditivas y recomendaciones,,49
+,,Corte en el pie izquierdo que requiere puntos,1
+Dolor en la espalda baja,Ejercicios de fortalecimiento muscular,,4
+Problemas de estrés,Técnicas de relajación y manejo del estrés,,8
